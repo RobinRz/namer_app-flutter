@@ -55,7 +55,6 @@ class MyHomePage extends StatelessWidget {
       icon = Icons.favorite;
     } else {
       icon = Icons.favorite_border;
-      ;
     }
     return Scaffold(
       body: Center(
